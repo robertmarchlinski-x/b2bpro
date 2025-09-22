@@ -1,13 +1,13 @@
 {
   "name": "yourname/b2b-pro",
-  "description": "B2B Pro - ilościowe cenniki dla WooCommerce",
+  "description": "B2B Pro - ilo\u015bciowe cenniki dla WooCommerce",
   "type": "wordpress-plugin",
   "require": {
     "php": ">=7.3"
   },
   "autoload": {
     "psr-4": {
-      "B2BP\\": "src/"
+      "B2BP\\\\": "src/"
     }
   },
   "extra": {
